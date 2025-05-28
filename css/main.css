@@ -85,6 +85,7 @@ form textarea {
   max-height: 150px;
   height: 150px;
   resize: none;
+  /* changed font due to in not matching the label fonts */
   font-family: 'arial', 'Roboto', Helvetica, sans-serif;
 }
 
