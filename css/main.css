@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
+  /* commented out bg-color so the webpage is clear */
   /* background-color: grey; */
   max-width: 1200px;
   margin: auto;
@@ -98,6 +99,8 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
+/* added style to the skip link button */
 .skiplink {
   text-decoration: none;
   border: 2px solid black;
